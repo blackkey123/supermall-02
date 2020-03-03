@@ -1,6 +1,6 @@
 <template>
     <div>
-            21221
+            21
     </div>
 </template>
 
