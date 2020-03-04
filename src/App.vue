@@ -1,9 +1,10 @@
 <template>
-  <div id="app">
-      1235
-  </div>
+    <div id="app">
+
+    </div>
 </template>
 
 <style lang="less">
+    @import "assets/css/base.css";
 
 </style>
